@@ -11,9 +11,9 @@
 - when it's their turn, a player must be able to drag any of their pieces to any legitimate target square
 - assume both players are sharing a computer
 
-## Advice
+## About us
 
-We like to be able to run your code. If it takes less than 5 steps to install, we like it even more. If it includes unit tests and we're able to run the unit tests, we like it even more. Having said those things, we will do our best to assess it without prejudice, and provide balanced feedback even if we don't wish to proceed with your job application.
+We like to be able to run your code. If it takes less than 5 steps to install, we like it even more. If it includes unit tests and we're able to run the unit tests, and the unit tests are actually testing stuff that needs to be tested, we like it even more. Whether you read this paragraph or not, we will do our best to assess your code without prejudice, and provide balanced feedback even if we don't wish to proceed with your job application.
 
 ## Resources
 
